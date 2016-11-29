@@ -6,6 +6,8 @@ https://evbergen.home.xs4all.nl/nonrecursive-make.html
 
 https://github.com/dmoulding/boilermake
 
+http://wiki.c2.com/?RecursiveMakeConsideredHarmful
+
 Git:
 
 http://yannesposito.com/Scratch/fr/blog/2009-11-12-Git-for-n00b/
