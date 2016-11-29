@@ -13,3 +13,4 @@ https://openclassrooms.com/courses/compilez-sous-gnu-linux
 
 Vim
 http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/
+http://learnvimscriptthehardway.stevelosh.com/
