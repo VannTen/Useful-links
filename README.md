@@ -33,3 +33,7 @@ Vim:
 
 http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/
 http://learnvimscriptthehardway.stevelosh.com/
+
+Object-Oriented in C
+===
+https://www.cs.rit.edu/~ats/books/ooc.pdf
